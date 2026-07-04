@@ -1,0 +1,49 @@
+body{
+
+    background:#f5f6fa;
+
+}
+
+aside{
+
+    min-height:100vh;
+
+    background:#1f2937;
+
+    color:white;
+
+    padding:20px;
+
+}
+
+aside a{
+
+    color:white;
+
+    margin-bottom:10px;
+
+}
+
+aside a:hover{
+
+    background:#374151;
+
+    border-radius:6px;
+
+}
+
+main{
+
+    padding:30px;
+
+}
+
+.card{
+
+    border:none;
+
+    border-radius:12px;
+
+    box-shadow:0 4px 10px rgba(0,0,0,.1);
+
+}
